@@ -1,0 +1,55 @@
+---
+title       : Assimilating Into Inequality
+subtitle    : Mexican-American Educational Mobility
+author      : Mariana Horta
+job         : Department of Sociology and Office of Population Research, Princeton University
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+
+---
+```{r echo=FALSE}
+## Inspired by an emerging academic interest in the how the stratification system conditions mobility and assimilation.  
+##c: Economists have been asking if rising levels of inequality may alter the mobility prospects of the next generation.
+##c: Similarly, Portes and Zhou have predicted that an increasingly polarized labor market will condition the economic prospects of the descendants of today's immigrants. 
+
+## Read-And-Delete
+## 1. Edit YAML front matter
+## 2. Write using R Markdown
+## 3. Use an empty line followed by three dashes to separate slides!
+```
+--- .class #id
+#Mexicans in the U.S.
+
+###Mexico-born and U.S.-born persons of Mexican ancestry:  
+```{r echo=FALSE}
+## Mexicans are considered THE test case for new theories of assimilation
+## but beyond academic interest, Mexicans' economic assimilation matters because the 
+## Mexican-origin population is large, growing fast, and mostly economically disadvantaged.
+```
+-65\% of Hispanics (7 times the number of Puerto Ricans)^`*
+```{r echo=FALSE}
+## c: Mexicans outnumber all other Hispanic origin groups by orders of magnitude
+```
+- 27\% of foreign-born (5 times the number of Indian immigrants)^`*
+```{r echo=FALSE}
+## c: Similarly, Mexican immigrants far outnumber all other national origin groups
+```
+-11\% of U.S. Population, and rising^`*
+```{r echo=FALSE}
+#-% of child-bearing-aged women w
+## 2000 - 2010 growth implies that by 2020 we will count  tmore Mexicans than African Americans in the U.S. population. by the 2020 census
+```
+-Median household incomes for Mexicans are 74% the national median in 2011^1,2
+
+<div class='source'>
+^`*2013 March CPS, author's tabulations.
+^1 Gonzalez-Barrera and Lopez, 2013.
+^2 DeNavas, Proctor and Smith, 2013.
+</div>
+--- 
+
+
+
